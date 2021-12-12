@@ -163,10 +163,10 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Thibault
+  first_name: [Will, W.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of interesting robotics projects
+description:
 nav: true
 display_categories: [BASc]
 horizontal: false
